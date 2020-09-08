@@ -1,0 +1,45 @@
+This script will retrieve some keys information about the system
+First thing, we want to make sure that only root account can run the script, we'll retieve information like:
+
+ Information about the OS and kernel version 
+
+ Last successful connection
+
+ Last unsuccessful connection
+
+ Display information about users
+
+ Modify the validity information of a password
+
+ List the allowed commands for users
+
+ User information
+
+ Path Environment
+
+ Connected devices
+
+ Partitions
+
+ Block Devices
+
+ Check for ufw status
+
+ Open PortS with net-tools utility
+
+ ModifiCation on APT directory
+
+ Chrootkit and Rkhunter for finding most common and famous rootkit
+
+ Intrusion Detection System - Snort
+
+ Monitoring interface
+
+ Clamav antivirus
+
+ displays all processes
+
+ Firewall Logs
+
+
+
